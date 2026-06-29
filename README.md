@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Full-Stack MERN)
 
 Welcome to the **Student Management System**, a highly responsive, clean, and production-ready full-stack application built using the modern MERN Stack.
@@ -123,3 +124,6 @@ student-management-system/
    Access the local preview page. Click the **"Prefill Demo Credentials"** shortcut at the bottom of the login card, or enter:
    - **Username**: `admin`
    - **Password**: `admin123`
+=======
+# edumanage
+>>>>>>> 8525d7eec9d413b038c9da9388c57529631163b1
