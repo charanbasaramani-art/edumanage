@@ -1,0 +1,6 @@
+{
+  "name": "EduManage",
+  "description": "A comprehensive MERN-stack student management platform featuring department and student controls, secure JWT authentication, and advanced search/filter features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

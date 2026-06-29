@@ -1,0 +1,11 @@
+# Netlify configuration for React Router single-page applications and backend proxying
+[[redirects]]
+  from = "/api/*"
+  to = "https://ais-pre-qy2vqkrtdehdnxdbr2zucd-944828103572.asia-southeast1.run.app/api/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
